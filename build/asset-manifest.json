@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TOSC/static/css/main.49b94f44.css",
+    "main.js": "/TOSC/static/js/main.6d4a34c5.js",
+    "index.html": "/TOSC/index.html",
+    "main.49b94f44.css.map": "/TOSC/static/css/main.49b94f44.css.map",
+    "main.6d4a34c5.js.map": "/TOSC/static/js/main.6d4a34c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b94f44.css",
+    "static/js/main.6d4a34c5.js"
+  ]
+}
